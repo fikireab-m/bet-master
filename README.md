@@ -1,3 +1,3 @@
-# bet-maser
+# Bet Master
 
-an application which provides most likely odds for sports to bet on
+An application that provides the most likely odds for sports to bet on
